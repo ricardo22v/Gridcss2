@@ -1,0 +1,1 @@
+Se crearon ambas secciones con Grid
